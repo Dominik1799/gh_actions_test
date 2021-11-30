@@ -4,4 +4,5 @@ def foo():
 def bar():
   print("bar")
   
-print(bar())
+foo()
+bar()
