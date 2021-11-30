@@ -12,3 +12,4 @@ def foobar():
 
 foo()
 bar()
+foobar()
