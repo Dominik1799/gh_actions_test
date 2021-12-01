@@ -4,10 +4,10 @@ def foo():
 
 def bar():
     print("bar")
-    
+
+
 def foobar():
     print("asdasd")
-
 
 
 foo()
